@@ -1,3 +1,5 @@
  hi all this is my first commit in tags
 
-hi all this is my second  commit in tags though feature branch 
+hi all this is my second  commit in tags though feature branch
+
+hi all this is my third commit in tags through hotfix 
